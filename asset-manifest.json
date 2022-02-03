@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d0bb8dd.css",
+    "main.js": "/static/js/main.bf8a4aff.js",
+    "static/js/787.19fe47b9.chunk.js": "/static/js/787.19fe47b9.chunk.js",
+    "static/media/myProfile2.png": "/static/media/myProfile2.001be0c92c159bfc8ad8.png",
+    "static/media/AWS SAA.png": "/static/media/AWS SAA.d8e8ece6324d5f5c6135.png",
+    "static/media/Azure DataFund.png": "/static/media/Azure DataFund.2bf170778bbaf7da5655.png",
+    "static/media/azure.png": "/static/media/azure.ddc03d5743fbd72d7038.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/tistory-logo-fill.svg": "/static/media/tistory-logo-fill.480729bda3f1ea58bf93e949ccbdfdd5.svg",
+    "main.5d0bb8dd.css.map": "/static/css/main.5d0bb8dd.css.map",
+    "main.bf8a4aff.js.map": "/static/js/main.bf8a4aff.js.map",
+    "787.19fe47b9.chunk.js.map": "/static/js/787.19fe47b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d0bb8dd.css",
+    "static/js/main.bf8a4aff.js"
+  ]
+}
