@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/gnoFolio/static/css/main.5d0bb8dd.css",
-    "main.js": "/gnoFolio/static/js/main.296f3c77.js",
-    "static/js/787.19fe47b9.chunk.js": "/gnoFolio/static/js/787.19fe47b9.chunk.js",
-    "static/media/myProfile2.png": "/gnoFolio/static/media/myProfile2.001be0c92c159bfc8ad8.png",
-    "static/media/AWS SAA.png": "/gnoFolio/static/media/AWS SAA.d8e8ece6324d5f5c6135.png",
-    "static/media/Azure DataFund.png": "/gnoFolio/static/media/Azure DataFund.2bf170778bbaf7da5655.png",
-    "static/media/azure.png": "/gnoFolio/static/media/azure.ddc03d5743fbd72d7038.png",
-    "static/media/logo.svg": "/gnoFolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/gnoFolio/index.html",
-    "static/media/tistory-logo-fill.svg": "/gnoFolio/static/media/tistory-logo-fill.480729bda3f1ea58bf93e949ccbdfdd5.svg",
-    "main.5d0bb8dd.css.map": "/gnoFolio/static/css/main.5d0bb8dd.css.map",
-    "main.296f3c77.js.map": "/gnoFolio/static/js/main.296f3c77.js.map",
-    "787.19fe47b9.chunk.js.map": "/gnoFolio/static/js/787.19fe47b9.chunk.js.map"
+    "main.css": "/gnofolio/static/css/main.5d0bb8dd.css",
+    "main.js": "/gnofolio/static/js/main.db4bab8d.js",
+    "static/js/787.19fe47b9.chunk.js": "/gnofolio/static/js/787.19fe47b9.chunk.js",
+    "static/media/myProfile2.png": "/gnofolio/static/media/myProfile2.001be0c92c159bfc8ad8.png",
+    "static/media/AWS SAA.png": "/gnofolio/static/media/AWS SAA.d8e8ece6324d5f5c6135.png",
+    "static/media/Azure DataFund.png": "/gnofolio/static/media/Azure DataFund.2bf170778bbaf7da5655.png",
+    "static/media/azure.png": "/gnofolio/static/media/azure.ddc03d5743fbd72d7038.png",
+    "static/media/logo.svg": "/gnofolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gnofolio/index.html",
+    "static/media/tistory-logo-fill.svg": "/gnofolio/static/media/tistory-logo-fill.480729bda3f1ea58bf93e949ccbdfdd5.svg",
+    "main.5d0bb8dd.css.map": "/gnofolio/static/css/main.5d0bb8dd.css.map",
+    "main.db4bab8d.js.map": "/gnofolio/static/js/main.db4bab8d.js.map",
+    "787.19fe47b9.chunk.js.map": "/gnofolio/static/js/787.19fe47b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d0bb8dd.css",
-    "static/js/main.296f3c77.js"
+    "static/js/main.db4bab8d.js"
   ]
 }
