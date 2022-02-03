@@ -7,7 +7,6 @@
 // header
 
 .header {
-  display: flex;
   max-width: 100%;
   width: 100%;
   background-color: $lightBackgroundColor;
@@ -17,8 +16,9 @@
   margin: 0;
   padding: 0;
   list-style: none;
-  overflow: hidden;
   margin: 0 auto;
+
+  overflow: hidden;
 }
 
 .header li a {
@@ -41,7 +41,8 @@
 }
 
 .header .menu-icon {
-  display: inline-block;
+  display: flex;
+  justify-content: end;
   position: relative;
   cursor: pointer;
   padding: 28px 20px;
@@ -108,12 +109,14 @@
     float: left;
   }
   .header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    // display: flex;
+    // align-items: center;
+    // justify-content: space-between;
   }
   .header .menu {
     max-height: none;
+    display: flex;
+    justify-content: end;
   }
   .header .menu-icon {
     display: none;

@@ -1,0 +1,66 @@
+@import "../../colorContainer.scss";
+
+.intro-container {
+  width: 90%;
+  padding: 20px 10px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.intro-main {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Intro-image-section img {
+  width: 370px;
+  height: 500px;
+}
+
+//text
+.intro-text-title {
+  font-size: 70px;
+}
+
+.intro-text-subTitle {
+  color: $subtextColor;
+  font-size: 30px;
+}
+
+.intro-story {
+  opacity: 0.7;
+}
+
+// media query
+@media (max-width: 1380px) {
+  .intro-text-title {
+    font-size: 50px;
+  }
+  .intro-text-subTitle-p {
+    font-size: 20px;
+  }
+}
+@media (max-width: 768px) {
+  .intro-text-title {
+    font-size: 30px;
+    text-align: center;
+  }
+  .intro-text-subTitle {
+    font-size: 20px;
+    line-height: normal;
+    text-align: center;
+  }
+  .intro-main {
+    display: block;
+  }
+  .intro-main-div {
+    height: 256px;
+  }
+}
+
+@media (max-width: 320px) {
+  .intro-container {
+    width: auto;
+  }
+}
