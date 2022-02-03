@@ -7,6 +7,8 @@ import Skills from "../../pages/skills/skills";
 import Projects from "../../pages/projects/project";
 import Experiences from "../../pages/experiences/experiences";
 import Certification from "../../pages/certification/certification";
+import Footer from "../../components/footer/footer.component";
+import Top from "../../components/scroll/scroll.component";
 
 const Main = () => {
   return (
@@ -17,6 +19,9 @@ const Main = () => {
       <Projects />
       <Certification />
       <Experiences />
+      <Footer />
+
+      <Top />
     </div>
   );
 };

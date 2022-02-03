@@ -44,9 +44,10 @@
       box-shadow: 11px 10px 49px 0px rgba(242, 242, 242, 1);
 
       .project-title {
-        font-size: 22px;
+        font-size: 24px;
         color: $textColor;
-        margin-bottom: 10px;
+        font-weight: 600;
+        margin-bottom: 15px;
       }
 
       .project-period {
@@ -57,10 +58,12 @@
       .project-detail {
         color: $subtextColor;
         margin-bottom: 10px;
+        font-size: 16px;
       }
 
       .project-skills {
         color: $linkedin;
+        font-weight: 600;
       }
     }
 

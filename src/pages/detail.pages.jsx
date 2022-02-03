@@ -1,10 +1,10 @@
 import emoji from "react-easy-emoji";
 
 const intro = {
-  title: "Eum's Portfolio",
+  title: "EUM DAEWOONG",
   subTitle: "Front End Developer(Soon)",
   story:
-    "안녕하세요. 계속 발전하고 싶은 개발자 음대웅입니다. 항상 밝은 태도로 즐겁게 일하고 싶습니다.",
+    "안녕하세요. 계속 발전하고 싶은 개발자입니다. 항상 밝은 태도로 즐겁게 일하고 싶습니다.",
 };
 
 const sociallink = {
@@ -22,8 +22,8 @@ const skills = {
   project: [
     {
       projectId: 1,
-      projectName: "개인 포트폴리오",
-      projectPeriod: "2021.01.-2021.02(1인)",
+      projectName: "personal portfolio",
+      projectPeriod: "2021.02.-2021.02 (1인)",
       projectImg: "#",
       projectDetail:
         "현재 보고 계신 포트폴리오 페이지입니다. React기반으로 제작. 추후 몇가지 api를 통해 업데이트를 해볼 예정입니다.",
@@ -32,11 +32,11 @@ const skills = {
     },
     {
       projectId: 2,
-      projectName: "e북 업로드 사이트",
-      projectPeriod: "2020.02.-2020.04(4인)",
+      projectName: "e-book website",
+      projectPeriod: "2020.02.-2020.04 (4인)",
       projectImg: "#",
       projectDetail:
-        "멀티캠퍼스 교육과정 중 만들어본 e북 업로드 사이트입니다. 우수상을 받았지만 미완성으로 끝났고 미흡했지만 많은 것을 배울 수 있었습니다.",
+        "멀티캠퍼스 교육과정 중 만들어본 e북 업로드 사이트입니다. 미완성으로 끝난 미흡한 결과이지만 많은 것을 배울 수 있었습니다.(자체 우수상)",
       projectUrl: "https://github.com/gnobaaaar/multiicampus21_project",
       prjectSkills: "React, MobX, Django, aws, Docker, RestAPI, MySQL",
     },
@@ -78,4 +78,11 @@ const exps = {
   subTitle: "구직 중입니다",
 };
 
-export { intro, sociallink, skills, exps, certification };
+const footer = {
+  title: "CONTACT ME",
+  subTitle: "MY EMAIL OPEN ALWAYS",
+  location: "Seocho, Seoul",
+  img: require("../assets/img/myProfile2.png"),
+};
+
+export { intro, sociallink, skills, exps, certification, footer };

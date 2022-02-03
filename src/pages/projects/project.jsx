@@ -9,8 +9,8 @@ import { skills, sociallink } from "../../pages/detail.pages";
 function Projects() {
   return (
     <FadeIn delay="450">
-      <div className="project">
-        <div className="projects-main" id="projects">
+      <div className="project" id="projects">
+        <div className="projects-main">
           <div className="projects-title">
             <a href="#projects">
               {" "}

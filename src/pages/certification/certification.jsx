@@ -6,8 +6,8 @@ import { certification } from "../detail.pages";
 function Certification() {
   return (
     <FadIn delay="500">
-      <div className="certificate-box">
-        <div className="certificate-main" id="certificate">
+      <div className="certificate-box" id="certificate">
+        <div className="certificate-main">
           <div className="certificate-title">
             <a href="#certificate">
               <h3>CERTIFICATIONS</h3>

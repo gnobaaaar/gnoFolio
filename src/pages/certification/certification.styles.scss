@@ -33,8 +33,8 @@
       //   background-color: red;
 
       .certificate-img img {
-        width: 120px;
-        height: 120px;
+        width: 140px;
+        height: 140px;
         margin-bottom: 10px;
       }
 
@@ -67,8 +67,9 @@
 
 @media (max-width: 768px) {
   .certificate-main {
-    margin-left: 30px;
-    width: 70%;
+    margin-left: 10px;
+    width: 90%;
+    height: 100%;
     display: block;
     justify-content: center;
     align-items: center;
@@ -85,5 +86,14 @@
     .certificate-lists
     .certificate-publisher {
     font-size: 12px;
+  }
+
+  .certificate-main
+    .certificate-container
+    .certificate-lists
+    .certificate-img
+    img {
+    width: 90px;
+    height: 90px;
   }
 }
