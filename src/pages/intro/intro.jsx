@@ -9,7 +9,7 @@ import SocialLink from "../../components/SocialLink/SocialLink.component";
 function Intro() {
   return (
     <FadeIn delay="100">
-      <div>
+      <div className="intro">
         <div className="intro-container">
           <div className="intro-main">
             <div className="intro-text-section">

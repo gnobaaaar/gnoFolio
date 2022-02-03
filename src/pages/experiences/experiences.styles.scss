@@ -1,0 +1,49 @@
+@import "../../colorContainer.scss";
+
+.exp-container {
+  width: 100%;
+  margin-top: 120px;
+  padding-top: 50px;
+
+  .exp-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .exp-header {
+    .exp-title {
+      font-size: 50px;
+    }
+
+    .exp-subTitle {
+      font-size: 30px;
+      color: $subtextColor;
+    }
+  }
+
+  .exp-header a {
+    text-decoration: none;
+    color: $textColor;
+  }
+}
+
+@media (max-width: 1380px) {
+  .exp-container .exp-header .exp-title {
+    font-size: 50px;
+  }
+
+  .exp-container .exp-header .exp-subTitle {
+    font-size: 40px;
+  }
+}
+@media (max-width: 768px) {
+  .exp-container .exp-header .exp-title {
+    font-size: 40px;
+  }
+
+  .exp-container .exp-header .exp-subTitle {
+    font-size: 20px;
+  }
+}

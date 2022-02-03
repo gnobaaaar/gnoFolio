@@ -1,0 +1,89 @@
+@import "../../colorContainer.scss";
+
+.certificate-box {
+  background-color: $lightBackgroundColor;
+  padding: 80px 30px 30px 30px;
+}
+
+.certificate-main {
+  width: 90%;
+  //   background-color: red;
+  display: flex;
+  align-items: center;
+  margin: 0 100px 200px 100px;
+
+  .certificate-title {
+    font-size: 30px;
+    margin-right: 50px;
+  }
+
+  .certificate-title a {
+    color: $textColor;
+    text-decoration: none;
+  }
+
+  .certificate-container {
+    display: flex;
+    flex-direction: row;
+
+    .certificate-lists {
+      text-decoration: none;
+      list-style: none;
+      width: 30%;
+      //   background-color: red;
+
+      .certificate-img img {
+        width: 120px;
+        height: 120px;
+        margin-bottom: 10px;
+      }
+
+      .certificate-name {
+        font-size: 21px;
+        font-weight: 800;
+        margin-bottom: 10px;
+        color: $textColor;
+      }
+
+      .certificate-publisher {
+        color: $subtextColor;
+        font-size: 20px;
+      }
+    }
+
+    .certificate-lists a {
+      text-decoration: none;
+    }
+  }
+}
+
+@media (max-width: 1380px) {
+  .certificate-container {
+  }
+  .certificate-title {
+    font-size: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .certificate-main {
+    margin-left: 30px;
+    width: 70%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+  }
+  .certificate-main
+    .certificate-container
+    .certificate-lists
+    .certificate-name {
+    font-size: 15px;
+  }
+
+  .certificate-main
+    .certificate-container
+    .certificate-lists
+    .certificate-publisher {
+    font-size: 12px;
+  }
+}

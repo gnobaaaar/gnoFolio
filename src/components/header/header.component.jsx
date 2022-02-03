@@ -12,20 +12,16 @@ function Header() {
         </label>
         <ul className="menu">
           <li>
-            <a href="#">Skills</a>
+            <a href="#skills">Skills</a>
           </li>
           <li>
-            <a href="#">Projects</a>
+            <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="#">Certifications</a>
-          </li>
-
-          <li>
-            <a href="#">Blogs</a>
+            <a href="#certificate">Certifications</a>
           </li>
           <li>
-            <a href="#">Experience</a>
+            <a href="#experience">Experience</a>
           </li>
           <li>
             <a href="#">Contact Me</a>

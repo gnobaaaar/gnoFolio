@@ -1,0 +1,27 @@
+@import "../../colorContainer.scss";
+
+.skills-container {
+  background-color: #f2ae72;
+  margin: 80px 0 0 0;
+  padding-top: 70px;
+  padding-bottom: 130px;
+  .skills-text-section a {
+    text-decoration: none;
+    color: $textColor;
+  }
+
+  .skills-text-section h1 {
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 1380px) {
+  .skills-text-section h1 {
+    font-size: 40px;
+  }
+}
+@media (max-width: 768px) {
+  .skills-text-section h1 {
+    font-size: 30px;
+  }
+}
