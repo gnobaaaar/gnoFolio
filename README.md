@@ -1,8 +1,10 @@
 # Personal Portfolio
 
-개인 프로젝트를 위해서 만든 프로젝트입니다. (2021.02)
+개인 포트폴리오 사이트 (2021.02) : *추후 api 업데이트 예정*
 
+https://gnobaaaar.github.io/gnofolio
 
+<br/>
 
 ### ⌨️ Tech
 
