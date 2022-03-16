@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gnofolio/static/css/main.5d0bb8dd.css",
-    "main.js": "/gnofolio/static/js/main.db4bab8d.js",
+    "main.js": "/gnofolio/static/js/main.fa07c78d.js",
     "static/js/787.19fe47b9.chunk.js": "/gnofolio/static/js/787.19fe47b9.chunk.js",
     "static/media/myProfile2.png": "/gnofolio/static/media/myProfile2.001be0c92c159bfc8ad8.png",
     "static/media/AWS SAA.png": "/gnofolio/static/media/AWS SAA.d8e8ece6324d5f5c6135.png",
@@ -11,11 +11,11 @@
     "index.html": "/gnofolio/index.html",
     "static/media/tistory-logo-fill.svg": "/gnofolio/static/media/tistory-logo-fill.480729bda3f1ea58bf93e949ccbdfdd5.svg",
     "main.5d0bb8dd.css.map": "/gnofolio/static/css/main.5d0bb8dd.css.map",
-    "main.db4bab8d.js.map": "/gnofolio/static/js/main.db4bab8d.js.map",
+    "main.fa07c78d.js.map": "/gnofolio/static/js/main.fa07c78d.js.map",
     "787.19fe47b9.chunk.js.map": "/gnofolio/static/js/787.19fe47b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d0bb8dd.css",
-    "static/js/main.db4bab8d.js"
+    "static/js/main.fa07c78d.js"
   ]
 }
